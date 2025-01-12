@@ -13,41 +13,40 @@ Sou um apaixonado por tecnologia e desenvolvimento de software, atualmente com 2
 Aqui estão as ferramentas e linguagens com as quais eu trabalho:
 
 ### Linguagens de Programação e Frameworks:
-- <span style="color: #e34f26;">HTML</span>
-- <span style="color: #563d7c;">CSS</span>
-- <span style="color: #f7df1e;">JavaScript</span>
-- <span style="color: #3178c6;">TypeScript</span>
-- <span style="color: #61dafb;">React JSX</span>
-- <span style="color: #8cc84b;">Node.js</span>
-- <span style="color: #777bb3;">PHP</span>
-- <span style="color: #306998;">Python</span>
+
+![HTML](https://img.shields.io/badge/HTML-%23e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%2338a1db?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361dafb?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%237777bb?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-%23253256?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Banco de Dados:
-- <span style="color: #00618a;">MySQL Workbench</span>
-- <span style="color: #e34f26;">Xampp</span>
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23D91212?style=for-the-badge&logo=xampp&logoColor=white)
+
 
 ### Outros:
-- Git e GitHub para controle de versão
-- Tailwind CSS para estilização rápida e responsiva
+![Git](https://img.shields.io/badge/Git-%23f34f29?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2383aaf0?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## Atualmente Estudando
 
 Estou atualmente focado em:
-- <span style="color: #e34f26;">HTML</span>
-- <span style="color: #563d7c;">CSS</span>
-- <span style="color: #f7df1e;">JavaScript</span>
-- <span style="color: #8cc84b;">Node.js</span>
-- <span style="color: #00618a;">MySQL Workbench</span>
+![HTML](https://img.shields.io/badge/HTML-%23e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%2338a1db?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Contato
 
-- LinkedIn: [Seu LinkedIn Aqui](https://www.linkedin.com/in/arthur-reis-225948234/)
+- LinkedIn: Seu LinkedIn Aqui
 - GitHub: [github.com/friarthur](https://github.com/friarthur)
 - E-mail: arthurfriburgo234@gmail.com
 
-
-
-<!---
-friarthur/friarthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sinta-se à vontade para me chamar e conversar sobre tecnologia, colaborações ou apenas trocar ideias! 😊
