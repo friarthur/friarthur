@@ -7,12 +7,14 @@ Sou um apaixonado por tecnologia e desenvolvimento de software, atualmente com 2
 - 🎓 Estudando programação há 2 anos.
 - 🚀 Focado no desenvolvimento Full-Stack, utilizando Node.js.
 - 🌱 Atualmente aprendendo novas ferramentas e tecnologias para aperfeiçoar meus projetos.
+- 📖 1° semestre de Engenharia de software na Estácio
+- 👑 Atualmente lider de uma startup de criação sites/sitemas
 
 ## Linguagens e Tecnologias
 
 Aqui estão as ferramentas e linguagens com as quais eu trabalho:
 
-### Linguagens de Programação e Frameworks:
+### Linguagens de Programação e Frameworks que uso/usei:
 
 ![HTML](https://img.shields.io/badge/HTML-%23e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%2338a1db?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,6 +44,15 @@ Estou atualmente focado em:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## Sistemas Operacionais que Utilizo
+
+Aqui estão os sistemas operacionais que uso para meus projetos:
+
+![Windows](https://img.shields.io/badge/Windows-%230078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 ## Contato
 
