@@ -25,10 +25,14 @@ Aqui estão as ferramentas e linguagens com as quais eu trabalho:
 ![PHP](https://img.shields.io/badge/PHP-%237777bb?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-%23253256?style=for-the-badge&logo=electron&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-%235849C1?style=for-the-badge&logo=insomnia&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59?style=for-the-badge&logo=express&logoColor=white)
+
 
 ### Banco de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23D91212?style=for-the-badge&logo=xampp&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ### Outros:
@@ -43,7 +47,12 @@ Estou atualmente focado em:
 ![CSS](https://img.shields.io/badge/CSS-%2338a1db?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-%235849C1?style=for-the-badge&logo=insomnia&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 
 ## Sistemas Operacionais que Utilizo
