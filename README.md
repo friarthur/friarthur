@@ -1,11 +1,11 @@
 # Olá, eu sou Arthur Reis! 👋
 
-Sou um apaixonado por tecnologia e desenvolvimento de software, atualmente com 23 anos e dois anos de experiência em estudos e projetos de programação. Meu foco é me tornar um Desenvolvedor Full-Stack, com ênfase no Node.js.
+Sou um apaixonado por tecnologia e desenvolvimento de software, atualmente com 24 anos e dois anos de experiência em estudos e projetos de programação. Meu foco é me tornar um Desenvolvedor Full-Stack, com ênfase no PHP.
 
 ## Sobre Mim
 
 - 🎓 Estudando programação há 2 anos.
-- 🚀 Focado no desenvolvimento Full-Stack, utilizando Node.js.
+- 🚀 Focado no desenvolvimento Full-Stack, utilizando PHP.
 - 🌱 Atualmente aprendendo novas ferramentas e tecnologias para aperfeiçoar meus projetos.
 - 📖 1° semestre de Engenharia de Software na Estácio.
 - 👑 Atualmente líder de uma startup de criação de sites e sistemas.
@@ -14,17 +14,27 @@ Sou um apaixonado por tecnologia e desenvolvimento de software, atualmente com 2
 
 ### Linguagens de Programação e Frameworks que uso/usei:
 
+#### 🖥️ Front-end
 ![HTML](https://img.shields.io/badge/HTML-%23e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%2338a1db?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%237777bb?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361dafb?style=for-the-badge&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-%23253256?style=for-the-badge&logo=electron&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2383aaf0?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%237777bb?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+#### 🔌 APIs e Testes
 ![Insomnia](https://img.shields.io/badge/Insomnia-%235849C1?style=for-the-badge&logo=insomnia&logoColor=white)
+
+#### 🧩 Full-Stack / Multiplataforma
+![Electron](https://img.shields.io/badge/Electron-%23253256?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Frameworks
 
@@ -62,7 +72,7 @@ Atualmente estou focado em:
 
 ## Contato
 
-- LinkedIn: *[Adicione aqui o link do seu perfil LinkedIn]*
+- LinkedIn: *[https://www.linkedin.com/in/arthurreism/]*
 - GitHub: [github.com/friarthur](https://github.com/friarthur)
 - E-mail: arthurfriburgo234@gmail.com
 
