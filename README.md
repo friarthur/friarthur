@@ -30,8 +30,10 @@ Sou um apaixonado por tecnologia e desenvolvimento de software, atualmente com 2
 ![Python](https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-#### 🔌 APIs e Testes
+#### 🔌 APIs e Testes  
 ![Insomnia](https://img.shields.io/badge/Insomnia-%235849C1?style=for-the-badge&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 #### 🧩 Full-Stack / Multiplataforma
 ![Electron](https://img.shields.io/badge/Electron-%23253256?style=for-the-badge&logo=electron&logoColor=white)
@@ -62,6 +64,7 @@ Atualmente estou focado em:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%237777bb?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
