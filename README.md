@@ -10,6 +10,11 @@ Sou um apaixonado por tecnologia e desenvolvimento de software, atualmente com 2
 - 📖 1° semestre de Engenharia de Software na Estácio.
 - 👑 Atualmente líder de uma startup de criação de sites e sistemas.
 
+## 📈 My stats:
+
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=friarthur&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Linguagens e Tecnologias
 
 ### Linguagens de Programação e Frameworks que uso/usei:
