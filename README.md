@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou Arthur Reis! 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38A1DB&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Focado+em+PHP;Líder+de+Startup" alt="Typing animation" />
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ2d2J5eWx6b3R3eWx0eWJ5d2Z0b2FqY2J6eGZ0dXJqZ3R0eW5xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
