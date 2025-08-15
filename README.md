@@ -86,7 +86,9 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/friarthur/friarthur/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  
+  ![Snake animation](https://github.com/friarthur/friarthur/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 </div>
 
 <div align="center">
