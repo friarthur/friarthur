@@ -87,7 +87,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/friarthur/friarthur/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+  ![Snake animation](https://github.com/friarthur/friarthurr/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 </div>
 
