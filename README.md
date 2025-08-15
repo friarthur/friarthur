@@ -78,11 +78,11 @@
 ## 📫 Como me Encontrar
 
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/arthurreism/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:arthurfriburgo234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/friarthur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/friarthur/friarthur/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/friarthur/friarthur/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub snake animation" src="https://raw.githubusercontent.com/friarthur/friarthur/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
