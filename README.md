@@ -1,9 +1,9 @@
 # 💻 Arthur Reis - Desenvolvedor Full-Stack PHP
 
 <div align="center">
-  <p align="center">
+ 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2E8B57&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Desenvolvedor+Full-Stack;%F0%9F%92%8E+Especialista+PHP;%F0%9F%91%91+Líder+Tecnológico;%E2%9C%A8+Apaixonado+por+Código" alt="Animação com emojis">
-</p>
+
   <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ2d2J5eWx6b3R3eWx0eWJ5d2Z0b2FqY2J6eGZ0dXJqZ3R0eW5xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Gif de programação">
 </div>
