@@ -20,7 +20,7 @@
 - 🚀 **Líder de Startup** na área de desenvolvimento de sites e sistemas
 - 🌱 **Foco atual**: Dominar ecossistema PHP/Laravel
 - 💡 **Objetivo**: Tornar-me referência em desenvolvimento Full-Stack
-- 👨‍💻 **Visitas**: <img src="https://visitor-badge.glitch.me/badge?page_id=friarthur.friarthur" alt="Contador de Visitas">
+- 🌎 **Visitas**: <img src="https://visitor-badge.laobi.icu/badge?page_id=friarthur.friarthur" alt="Visitas" style="height:20px;">
 
 ## 🛠️ Stack Tecnológica
 
