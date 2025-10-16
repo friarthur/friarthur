@@ -6,7 +6,8 @@
 </p>
 
   <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&theme=tokyonight&hide_border=true&hide=Python" alt="Linguagens mais usadas">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programando" width="500"/>
+
 
 </div>
 
@@ -14,7 +15,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=friarthur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&theme=tokyonight&hide_border=true&hide=Python" alt="Linguagens mais usadas">
+
 
 </div>
 
