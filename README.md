@@ -6,7 +6,8 @@
 </p>
 
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ2d2J5eWx6b3R3eWx0eWJ5d2Z0b2FqY2J6eGZ0dXJqZ3R0eW5xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Gif de programação">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&theme=tokyonight&hide_border=true&hide=Python" alt="Linguagens mais usadas">
+
 </div>
 
 ## 👨‍💻 Sobre Mim
