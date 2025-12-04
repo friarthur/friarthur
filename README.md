@@ -82,11 +82,28 @@
 
 ## 🖥️ Ambiente de Trabalho
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<div style="display: flex; gap: 20px; align-items: center; justify-content: center; flex-wrap: wrap;">
+
+  <!-- Fedora KDE Plasma 43 - Principal -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Fedora_KDE_Plasma_43-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora KDE Plasma 43">
+    <span style="font-size: 14px; color: #333;">🌟 Sistema Principal</span>
+  </div>
+
+  <!-- Ubuntu - Servidor -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Servidor_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server">
+    <span style="font-size: 14px; color: #333;">🖥️ Servidor Linux</span>
+  </div>
+
+  <!-- Windows - Início da trajetória -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <span style="font-size: 14px; color: #333;">🚀 Início da trajetória</span>
+  </div>
+
 </div>
+
 
 ## 📫 Vamos Conversar!
 
