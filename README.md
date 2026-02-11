@@ -20,7 +20,7 @@
 
 </div>
 
-- 🎓 **Estudante de ADS** no SENAC (1° semestre) + 2 anos de estudos intensivos
+- 🎓 **Estudante de ADS** no SENAC (2° semestre) + 2 anos de estudos intensivos
 - 🚀 **Líder de Startup** na área de desenvolvimento de sites e sistemas
 - 🌱 **Foco atual**: Dominar ecossistema PHP/Laravel
 - 💡 **Objetivo**: Tornar-me referência em desenvolvimento Full-Stack
