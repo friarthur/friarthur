@@ -1,90 +1,56 @@
-# 💻 Arthur Reis - Desenvolvedor Full-Stack PHP
+# 💻 Arthur Reis | Full-Stack PHP Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&lines=☕+Café+e+Código;🚀+PHP+%2B+Laravel;🐘+MySQL+%2B+Docker;🧩+Construindo+com+propósito" alt="Typing SVG">
-  <br><br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Programando">
 </div>
+
+<p align="center">
+  <a href="#-sobre-mim">Sobre Mim</a> •
+  <a href="#-stack-tecnológica">Stack Tecnológica</a> •
+  <a href="#-estatísticas">Estatísticas</a> •
+  <a href="#-vamos-conversar">Contato</a>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550" alt="Programando" style="border-radius: 8px;">
+</div>
+
+---
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (2º semestre - SENAC)
-- 🚀 **Líder de Startup** focada em desenvolvimento de sites e sistemas web
-- 🌱 **Foco atual**: Dominar o ecossistema **PHP + Laravel**
-- 💡 **Objetivo**: Me tornar referência em desenvolvimento backend com PHP e sistemas completos
-- 🐧 **Ambiente diário**: Linux (Fedora KDE) + Docker
+<blockquote><strong>"Tecnologia com propósito, código com fé."</strong> 🙏</blockquote>
 
-**"Tecnologia com propósito, código com fé."** 🙏
-
-## 🛠️ Stack Tecnológica Atual
-
-<div align="center">
-  <h3>Principais Tecnologias</h3>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,docker,linux,git,github,vscode,figma" alt="Stack">
-</div>
-
-### 🔧 Tecnologias que Domino / Uso no Dia a Dia
-
-**Backend**
-- **PHP** • **Laravel**
-- **MySQL**
-- **Docker** (containers e ambiente de desenvolvimento)
-
-**Frontend**
-- **HTML5**
-- **CSS3** + **Tailwind CSS**
-
-**Ferramentas & Ambiente**
-- **Linux** (Fedora KDE Plasma - principal)
-- **DBeaver**
-- **Git** + **GitHub**
-- **VS Code**
-- **Postman** / **Insomnia**
+* 🎓 **Acadêmico:** Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre - SENAC)
+* 🚀 **Liderança:** Head/Líder em Startup focada em desenvolvimento de sites e sistemas web corporativos
+* 🌱 **Foco Atual:** Especialização profunda no ecossistema **PHP / Laravel**
+* 🐧 **Ecosistema:** Desenvolvendo diariamente em ambiente **Linux** (Fedora KDE) isolado com **Docker**
 
 ---
 
-## 🌱 Atualmente Estudando e Aprimorando
+## 🛠️ Stack Tecnológica
 
-- Arquitetura limpa e boas práticas com **Laravel**
-- **Docker** avançado (multi-container, Docker Compose)
-- Performance e otimização de banco de dados (**MySQL**)
-- Testes automatizados e CI/CD
-- Design de APIs RESTful
+### 🔧 No Dia a Dia
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux_Fedora-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
----
+### 🌐 Frontend & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+</p>
 
-## 📊 Estatísticas
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=friarthur&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&theme=tokyonight&hide_border=true&hide=Python" alt="Top Languages">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=friarthur&theme=tokyonight)
-
----
-
-## 🖥️ Meu Ambiente
-
-- **Sistema Principal**: Fedora KDE Plasma
-- **Servidor**: Ubuntu
-- **Containerização**: Docker + Docker Compose
-
----
-
-## 📫 Vamos Conversar!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arthurreism/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:arthurfriburgo234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/friarthur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
-
-<div align="center">
-  <h3>✨ Obrigado pela visita! ✨</h3>
-  <p><strong>Vamos construir algo incrível juntos.</strong></p>
-</div>
-
-<!-- Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/friarthur/friarthur/output/github-contribution-grid-snake.svg" alt="Snake">
-</div>
+### 📈 Em Evolução Constante
+```text
+ ├─ 🏗️ Arquitetura & Padrões: MVC, Clean Code e Clean Architecture
+ ├─ 🐳 DevOps Essentials: Docker Compose avançado, Multi-containers e CI/CD
+ ├─ 🗄️ Banco de Dados: Otimização de queries e performance em MySQL
+ └─ 🧪 Qualidade: Design de APIs RESTful e Testes Automatizados
