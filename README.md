@@ -1,108 +1,75 @@
 # 💻 Arthur Reis - Desenvolvedor Full-Stack PHP
 
 <div align="center">
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=500&lines=☕+Amante+de+Café+e+Código;💻+Codando+com+Cafeína;🔧+Builds+com+aroma+de+Java;🌙+Debugando+até+de+manhã" alt="">
-</p>
-
-  <br>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programando" width="500"/>
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&lines=☕+Café+e+Código;🚀+PHP+%2B+Laravel;🐘+MySQL+%2B+Docker;🧩+Construindo+com+propósito" alt="Typing SVG">
+  <br><br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Programando">
 </div>
 
 ## 👨‍💻 Sobre Mim
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=friarthur)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&theme=tokyonight&hide_border=true&hide=Python" alt="Linguagens mais usadas">
+- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (2º semestre - SENAC)
+- 🚀 **Líder de Startup** focada em desenvolvimento de sites e sistemas web
+- 🌱 **Foco atual**: Dominar o ecossistema **PHP + Laravel**
+- 💡 **Objetivo**: Me tornar referência em desenvolvimento backend com PHP e sistemas completos
+- 🐧 **Ambiente diário**: Linux (Fedora KDE) + Docker
 
+**"Tecnologia com propósito, código com fé."** 🙏
 
-</div>
-
-- 🎓 **Estudante de ADS** no SENAC (2° semestre) + 2 anos de estudos intensivos
-- 🚀 **Líder de Startup** na área de desenvolvimento de sites e sistemas
-- 🌱 **Foco atual**: Dominar ecossistema PHP/Laravel
-- 💡 **Objetivo**: Tornar-me referência em desenvolvimento Full-Stack
-- 🌎 **Visitas**: <img src="https://visitor-badge.laobi.icu/badge?page_id=friarthur.friarthur" alt="Visitas" style="height:20px;">
-
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack Tecnológica Atual
 
 <div align="center">
-  <h3>Minhas Ferramentas de Trabalho</h3>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,html,css,tailwind,react,nodejs,mysql,mongodb,git,github,postman,figma,vscode" alt="Ícones de tecnologias">
+  <h3>Principais Tecnologias</h3>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,docker,linux,git,github,vscode,figma" alt="Stack">
 </div>
 
-### 🔧 Tecnologias que Domino
+### 🔧 Tecnologias que Domino / Uso no Dia a Dia
 
-#### Front-End
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+**Backend**
+- **PHP** • **Laravel**
+- **MySQL**
+- **Docker** (containers e ambiente de desenvolvimento)
 
-#### Back-End
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" alt="Express.js">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+**Frontend**
+- **HTML5**
+- **CSS3** + **Tailwind CSS**
 
-#### Bancos de Dados
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+**Ferramentas & Ambiente**
+- **Linux** (Fedora KDE Plasma - principal)
+- **DBeaver**
+- **Git** + **GitHub**
+- **VS Code**
+- **Postman** / **Insomnia**
 
-#### Ferramentas
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+---
 
-## 🌱 Atualmente Estudando
+## 🌱 Atualmente Estudando e Aprimorando
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <br>
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Estudando animação">
-</div>
+- Arquitetura limpa e boas práticas com **Laravel**
+- **Docker** avançado (multi-container, Docker Compose)
+- Performance e otimização de banco de dados (**MySQL**)
+- Testes automatizados e CI/CD
+- Design de APIs RESTful
 
-## 📊 Minha Rotina de Desenvolvimento
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=friarthur&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=friarthur&theme=tokyonight&hide_border=true&area=true&custom_title=Minha+Atividade+no+GitHub" alt="Atividade no GitHub">
-</div>
+## 📊 Estatísticas
 
-## 🖥️ Ambiente de Trabalho
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=friarthur&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: flex; gap: 20px; align-items: center; justify-content: center; flex-wrap: wrap;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&theme=tokyonight&hide_border=true&hide=Python" alt="Top Languages">
 
-  <!-- Fedora KDE Plasma 43 - Principal -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/Fedora_KDE_Plasma_43-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora KDE Plasma 43">
-    <span style="font-size: 14px; color: #333;">🌟 Sistema Principal</span>
-  </div>
+![GitHub Streak](https://streak-stats.demolab.com?user=friarthur&theme=tokyonight)
 
-  <!-- Ubuntu - Servidor -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/Servidor_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server">
-    <span style="font-size: 14px; color: #333;">🖥️ Servidor Linux</span>
-  </div>
+---
 
-  <!-- Windows - Início da trajetória -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    <span style="font-size: 14px; color: #333;">🚀 Início da trajetória</span>
-  </div>
+## 🖥️ Meu Ambiente
 
-</div>
+- **Sistema Principal**: Fedora KDE Plasma
+- **Servidor**: Ubuntu
+- **Containerização**: Docker + Docker Compose
 
+---
 
 ## 📫 Vamos Conversar!
 
@@ -114,11 +81,10 @@
 
 <div align="center">
   <h3>✨ Obrigado pela visita! ✨</h3>
-  <p>Vamos criar algo incrível juntos!</p>
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="150" alt="Obrigado">
+  <p><strong>Vamos construir algo incrível juntos.</strong></p>
 </div>
 
-<!-- Snake Animation -->
+<!-- Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/friarthur/friarthur/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/friarthur/friarthur/output/github-contribution-grid-snake.svg" alt="Snake">
 </div>
