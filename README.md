@@ -1,10 +1,6 @@
 # 💻 Arthur Reis | Full-Stack PHP Developer
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-</div>
+
 
 <p align="center">
   <a href="#-sobre-mim">Sobre Mim</a> •
@@ -29,6 +25,14 @@
 * 🐧 **Ecosistema:** Desenvolvendo diariamente em ambiente **Linux** (Fedora KDE) isolado com **Docker**
 
 ---
+## 📊 Linguagens Mais Utilizadas
+
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=8&theme=tokyonight"
+  />
+</div>
 
 ## 🛠️ Stack Tecnológica
 
