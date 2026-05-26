@@ -1,7 +1,9 @@
 # 💻 Arthur Reis | Full-Stack PHP Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&lines=☕+Café+e+Código;🚀+PHP+%2B+Laravel;🐘+MySQL+%2B+Docker;🧩+Construindo+com+propósito" alt="Typing SVG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
 </div>
 
 <p align="center">
