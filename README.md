@@ -25,14 +25,7 @@
 * 🐧 **Ecosistema:** Desenvolvendo diariamente em ambiente **Linux** (Fedora KDE) isolado com **Docker**
 
 ---
-## 📊 Linguagens Mais Utilizadas
-
-<div align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&langs_count=8&theme=tokyonight"
-  />
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=friarthur&layout=compact&theme=tokyonight" />
 
 ## 🛠️ Stack Tecnológica
 
