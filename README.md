@@ -17,11 +17,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-<blockquote><strong>"Tecnologia com propósito, código com fé."</strong> 🙏</blockquote>
 
-* 🎓 **Acadêmico:** Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre - SENAC)
+
+* 🎓 **Acadêmico:** Estudante de Análise e Desenvolvimento de Sistemas (3º Semestre - SENAC)
 * 🚀 **Liderança:** Head/Líder em Startup focada em desenvolvimento de sites e sistemas web corporativos
-* 🌱 **Foco Atual:** Especialização profunda no ecossistema **PHP / Laravel**
+* 🌱 **Foco Atual:** Especialização profunda no ecossistema **PHP**
 * 🐧 **Ecosistema:** Desenvolvendo diariamente em ambiente **Linux** (Fedora KDE) isolado com **Docker**
 
 ---
