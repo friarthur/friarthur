@@ -1,15 +1,13 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=180&section=header&text=Arthur%20Reis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20PHP%20%E2%80%A2%20Linux%20%26%20Systems&descFontSize=16&descAlignY=62" width="100%" alt="Header" />
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=180&section=header&text=Arthur%20Reis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20PHP%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Linux%20%E2%80%A2%20Systems&descFontSize=16&descAlignY=62" width="100%" alt="Header" /> </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/arthurreism/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:arthurreisdeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/friarthur">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -50,12 +48,7 @@ Minha atuação é voltada para a construção de serviços backend consistentes
 > *Planejamento estratégico de consolidação técnica, evolução contínua e posicionamento de carreira.*
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="left">📌 2026 — Fase de Preparação e Consolidação</th>
-      <th width="50%" align="left">🚀 2027 — Fase de Execução e Mercado</th>
-    </tr>
-  </thead>
+ 
   <tbody>
     <tr>
       <td valign="top">
@@ -119,14 +112,11 @@ Minha atuação é voltada para a construção de serviços backend consistentes
 > *Nota: As linguagens mais utilizadas refletem os repositórios públicos e projetos de estudo/laboratório, não definindo isoladamente o limite de atuação técnica.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=friarthur&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
