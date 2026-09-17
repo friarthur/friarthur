@@ -107,6 +107,7 @@ Minha atuação é voltada para a construção de serviços backend consistentes
 
 ---
 
+
 ### GitHub Stats & Métricas
 
 > *Nota: As linguagens mais utilizadas refletem os repositórios públicos e projetos de estudo/laboratório, não definindo isoladamente o limite de atuação técnica.*
@@ -115,12 +116,19 @@ Minha atuação é voltada para a construção de serviços backend consistentes
 
 <br />
 
+<a href="https://github.com/friarthur">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=friarthur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br" />
+</a>
+
+<a href="https://github.com/friarthur">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+
+<br /><br />
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=friarthur&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
 ### Software & System Programming
 
 > *"O desenvolvimento em C e o contato direto com a API POSIX me fornecem uma base sólida sobre a mecânica de baixo nível, permitindo escrever softwares de backend com melhor compreensão de recursos e ciclo de vida de processos."*
