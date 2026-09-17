@@ -108,25 +108,28 @@ Minha atuação é voltada para a construção de serviços backend consistentes
 ---
 
 
-### GitHub Stats & Métricas
-
-> *Nota: As linguagens mais utilizadas refletem os repositórios públicos e projetos de estudo/laboratório, não definindo isoladamente o limite de atuação técnica.*
+<h2 align="center">📊 GitHub Stats & Métricas</h2>
 
 <div align="center">
 
-<br />
+  <!-- Estatísticas gerais -->
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=friarthur&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br"
+  />
 
-<a href="https://github.com/friarthur">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=friarthur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br" />
-</a>
+  <!-- Linguagens mais utilizadas -->
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  />
 
-<a href="https://github.com/friarthur">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friarthur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+  <br><br>
 
-<br /><br />
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=friarthur&theme=tokyonight&hide_border=true)
+  <!-- Streak -->
+  <img
+    src="https://streak-stats.demolab.com/?user=friarthur&theme=tokyonight&hide_border=true"
+  />
 
 </div>
 ### Software & System Programming
