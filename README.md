@@ -17,11 +17,11 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h3>Sobre Mim</h3>
-      <p>Desenvolvedor focado em <strong>desenvolvimento Backend e Web</strong>, com experiência prática na concepção e sustentação de plataformas, APIs REST e regras de negócio estruturadas.</p>
-      <p>Tenho histórico consolidado no ecossistema <strong>PHP / SQL</strong> e estou direcionando minha evolução técnica para <strong>Node.js / JavaScript</strong> como stack profissional principal, mantendo PHP como especialização secundária de alto valor.</p>
-      <p>Utilizo <strong>Linux (Fedora)</strong> como meu ambiente diário de desenvolvimento e trabalho com <strong>Docker</strong> para isolamento e padronização de serviços. Cursando <strong>Análise e Desenvolvimento de Sistemas no SENAC</strong>.</p>
-      <p>Paralelamente, mantenho um laboratório contínuo de exploração técnica em <strong>C, GTK4 e System Programming</strong> para compreender a fundo o gerenciamento de memória, chamadas de sistema e o funcionamento interno do kernel Linux.</p>
+      <h3>About Me</h3>
+      <p>Developer focused on <strong>Backend and Web Development</strong>, with hands-on experience designing and maintaining platforms, REST APIs, and structured business logic.</p>
+      <p>I have a solid background in the <strong>PHP / SQL</strong> ecosystem and am currently directing my technical growth toward <strong>Node.js / JavaScript</strong> as my primary professional stack, while maintaining PHP as a valuable secondary specialization.</p>
+      <p>I use <strong>Linux (Fedora)</strong> as my daily development environment and work with <strong>Docker</strong> for service isolation and environment standardization. Currently pursuing a degree in <strong>Systems Analysis and Development at SENAC</strong>.</p>
+      <p>Alongside my professional development, I maintain a continuous technical laboratory focused on <strong>C, GTK4, and System Programming</strong> to gain a deeper understanding of memory management, system calls, and the internal workings of the Linux kernel.</p>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="Coding Terminal GIF" style="border-radius: 8px;" />
@@ -31,41 +31,41 @@
 
 ---
 
-### Foco Profissional & Engenharia Backend
+### Professional Focus & Backend Engineering
 
-Minha atuação é voltada para a construção de serviços backend consistentes, seguros e de fácil manutenção:
+My work is focused on building consistent, secure, and maintainable backend services:
 
-* **Backend & APIs:** Desenvolvimento de REST APIs estruturadas, arquitetura limpa e regras de negócio em **Node.js** e **PHP**.
-* **Banco de Dados:** Modelagem relacional, consultas eficientes e integridade de dados com **SQL (MySQL)**.
-* **Ambiente & Infraestrutura:** Padronização de ambientes de desenvolvimento e microsserviços via **Docker** e automação em ambiente **Linux**.
-* **Versionamento & Fluxo:** Rastreabilidade rigorosa de código, branching estruturado e colaboração com **Git & GitHub**.
-* **Interface Web:** Estruturação semântica e layouts responsivos com **HTML5 & CSS3**.
+* **Backend & APIs:** Development of structured REST APIs, clean architecture, and business logic using **Node.js** and **PHP**.
+* **Databases:** Relational modeling, efficient queries, and data integrity using **SQL (MySQL)**.
+* **Environment & Infrastructure:** Standardization of development environments and services through **Docker**, with automation in **Linux** environments.
+* **Version Control & Workflow:** Rigorous code traceability, structured branching, and collaborative development with **Git & GitHub**.
+* **Web Interface:** Semantic structure and responsive layouts using **HTML5 & CSS3**.
 
 ---
 
-### Projeto TURNING POINT (Estratégia 2026 — 2027)
+### Projeto TURNING POINT (2026 — 2027 Strategy)
 
-> *Planejamento estratégico de consolidação técnica, evolução contínua e posicionamento de carreira.*
+> *A strategic plan focused on technical consolidation, continuous growth, and career positioning.*
 
 <table width="100%">
- 
+
   <tbody>
     <tr>
       <td valign="top">
         <ul>
-          <li>Aprofundamento contínuo em <strong>Node.js, Express e ecossistema JS</strong></li>
-          <li>Refinamento de arquiteturas com <strong>PHP e Laravel</strong></li>
-          <li>Construção de <strong>REST APIs</strong> robustas e modelagem <strong>SQL</strong> avançada</li>
-          <li>Uso consistente de <strong>Docker</strong> para containerização de ambientes</li>
-          <li>Desenvolvimento de portfólio prático com foco em problemas reais de backend</li>
+          <li>Continuous development in <strong>Node.js, Express, and the JS ecosystem</strong></li>
+          <li>Refinement of architectures with <strong>PHP and Laravel</strong></li>
+          <li>Building robust <strong>REST APIs</strong> and advanced <strong>SQL</strong> data modeling</li>
+          <li>Consistent use of <strong>Docker</strong> for environment containerization</li>
+          <li>Building a practical portfolio focused on real-world backend problems</li>
         </ul>
       </td>
       <td valign="top">
         <ul>
-          <li>Posicionamento no mercado priorizando oportunidades em <strong>Node.js</strong></li>
-          <li>Atuação com <strong>PHP / Laravel</strong> como segunda frente especializada</li>
-          <li>Consolidação de maturidade em engenharia de software e backend</li>
-          <li>Manutenção de <strong>C / Linux / GTK4</strong> como laboratório de engenharia e baixo nível</li>
+          <li>Professional positioning focused on opportunities involving <strong>Node.js</strong></li>
+          <li>Working with <strong>PHP / Laravel</strong> as a specialized secondary track</li>
+          <li>Strengthening software engineering and backend development maturity</li>
+          <li>Maintaining <strong>C / Linux / GTK4</strong> as an engineering and low-level programming laboratory</li>
         </ul>
       </td>
     </tr>
@@ -74,9 +74,10 @@ Minha atuação é voltada para a construção de serviços backend consistentes
 
 ---
 
-### Tech Stack & Ferramentas
+### Tech Stack & Tools
 
-**Professional Stack (Principal)**
+**Professional Stack (Primary)**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -89,13 +90,15 @@ Minha atuação é voltada para a construção de serviços backend consistentes
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Secondary Stack (Experiência & Especialização)**
+**Secondary Stack (Experience & Specialization)**
+
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
 **Systems Programming & Experimental Lab**
+
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/GTK4-4E9A06?style=for-the-badge&logo=gnome&logoColor=white" alt="GTK4" />
@@ -107,30 +110,30 @@ Minha atuação é voltada para a construção de serviços backend consistentes
 
 ---
 
-
-## 📊 GitHub Stats & Métricas
+## GitHub Stats & Metrics
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=friarthur&theme=2077&animation=stagger)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=friarthur\&theme=2077\&animation=stagger)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=friarthur&theme=2077&animation=stagger)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=friarthur\&theme=2077\&animation=stagger)
 
 </div>
 
 ### Software & System Programming
 
-> *"O desenvolvimento em C e o contato direto com a API POSIX me fornecem uma base sólida sobre a mecânica de baixo nível, permitindo escrever softwares de backend com melhor compreensão de recursos e ciclo de vida de processos."*
+> *"Working with C and directly interacting with the POSIX API provides me with a solid foundation in low-level mechanics, allowing me to build backend software with a deeper understanding of resources and process lifecycles."*
 
-* **Gerenciamento de Memória:** Alocação dinâmica, manipulação e ciclo de vida de ponteiros e estruturas de dados nativas.
-* **Processos & POSIX:** Manipulação de system calls, sinais, fluxos de I/O de arquivos e extração de métricas via `/proc`.
-* **Interface Gráfica Nativa:** Criação de interfaces desktop para Linux com **GTK4** e personalização via CSS.
+* **Memory Management:** Dynamic allocation, manipulation, and lifecycle management of pointers and native data structures.
+* **Processes & POSIX:** System call handling, signals, file I/O streams, and metric extraction through `/proc`.
+* **Native GUI:** Building native Linux desktop interfaces with **GTK4** and customizing them with CSS.
 
 ---
 
-### Projeto em Destaque: SysWatch
+### Featured Project: SysWatch
 
-**SysWatch** é um monitor de sistema nativo para Linux desenvolvido em **C** e **GTK4**, concebido como laboratório de engenharia de software e system programming.
+**SysWatch** is a native Linux system monitor developed in **C** and **GTK4**, designed as a laboratory for software engineering and system programming.
 
 ```text
-[ C (Core & System Calls) ] ──▶ [ GTK4 + CSS (Interface Nativa) ] ──▶ [ Linux Kernel /proc ]
+[ C (Core & System Calls) ] ──▶ [ GTK4 + CSS (Native Interface) ] ──▶ [ Linux Kernel /proc ]
+```
